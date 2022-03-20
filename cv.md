@@ -25,3 +25,25 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
+## Code Example:
+```javascript
+function sum(a, b) {
+  return a + b;
+}
+let result = sum(1, 2);
+alert( result );
+```
+## Courses:
+* Course on [Rolling Scopes School](https://www.youtube.com/c/RollingScopesSchool) (in progress);
+* Study of HTML & CSS on [От 0 до 1](https://www.youtube.com/c/%D0%9E%D1%820%D0%B4%D0%BE1);
+* Course on [Фрилансер по жизни](https://www.youtube.com/channel/UCedskVwIKiZJsO8XdJdLKnA);
+* Современный учебник [learnjavascript.ru](https://learn.javascript.ru/) (in progress);
+* RS Schools Course «JavaScript/Front-end. Stage#1» [Rolling Scopes School Course](https://github.com/rolling-scopes-school) (in progress).
+
+## Education
+__University:__ Belarusian State University
+
+## Languages:
+* Belarusian - native speaker;
+* Russian - native;
+* English language - A1, in the process of studying.
