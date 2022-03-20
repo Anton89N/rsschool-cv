@@ -1,11 +1,11 @@
 # Anton N
 
 ## My Contacts:
-* **Address:** Minsk, Belarus
-* **Phone:** +375(44)787 -- --
+* **Location:** Minsk, Belarus
 * **E-mail:** [2047409kb@gmail.com](2047409kb@gmail.com)
 * **GitHub:** [Anton89N](https://github.com/Anton89N)
 * **Telegram:** [@Neumann_1313](https://t.me/Neumann_1313)
+* **Phone:** +375(44)787 -- --
 
 ## About me:
 I'm 32 years old. I have a higher education (BSU). I am an lawer. I am currently taking courses «JavaScript/Front-end» at RS School.
@@ -17,14 +17,6 @@ I'm 32 years old. I have a higher education (BSU). I am an lawer. I am currently
 4. Adobe Photoshop;
 5. JavaScript (Basic).
 
-## Code Example:
-```javascript
-function sum(a, b) {
-  return a + b;
-}
-let result = sum(1, 2);
-alert( result );
-```
 ## Code Example:
 ```javascript
 function sum(a, b) {
@@ -45,5 +37,5 @@ __University:__ Belarusian State University
 
 ## Languages:
 * Belarusian - native speaker;
-* Russian - native;
+* Russian - native speaker;
 * English language - A1, in the process of studying.
